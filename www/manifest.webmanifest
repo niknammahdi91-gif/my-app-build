@@ -1,0 +1,15 @@
+{
+  "name": "برنامه من",
+  "short_name": "برنامه من",
+  "start_url": "https://example.com",
+  "display": "standalone",
+  "background_color": "#12181f",
+  "theme_color": "#22c07a",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
