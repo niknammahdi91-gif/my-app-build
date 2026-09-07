@@ -3,4 +3,4 @@
 نوع خروجی: APK
 نام بسته: com.myname.app
 نسخه: 1.0.0
-منبع: https://example.com
+منبع: کد محلی
