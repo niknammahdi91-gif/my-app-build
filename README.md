@@ -1,2 +1,6 @@
-# my-app-build
-ساخته‌شده با اپ‌ساز
+# برنامه من
+
+نوع خروجی: APK
+نام بسته: com.myname.app
+نسخه: 1.0.0
+منبع: https://example.com
