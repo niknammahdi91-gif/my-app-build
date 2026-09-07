@@ -15,7 +15,7 @@ public class MainActivity extends Activity {
         web.getSettings().setJavaScriptEnabled(true);
         web.getSettings().setDomStorageEnabled(true);
         web.setWebViewClient(new WebViewClient());
-        web.loadUrl("https://example.com");
+        web.loadUrl("file:///android_asset/www/index.html");
         setContentView(web);
     }
 }
