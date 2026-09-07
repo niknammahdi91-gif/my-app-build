@@ -1,7 +1,7 @@
 {
   "name": "برنامه من",
   "short_name": "برنامه من",
-  "start_url": "https://example.com",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#12181f",
   "theme_color": "#22c07a",
